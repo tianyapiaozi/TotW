@@ -12,11 +12,11 @@
 
 已完成
 - [Tip of the Week #1: string_view](1.md)
-
-待完成
 - [Tip of the Week #55: Name Counting and unique_ptr](55.md)
 - [Tip of the Week #64: Raw String Literals](64.md)
 - [Tip of the Week #77: Temporaries, Moves, and Copies](77.md)
+
+待完成
 - [Tip of the Week #86: Enumerating with Class](86.md)
 - [Tip of the Week #94: Callsite Readability and bool Parameters](94.md)
 - [Tip of the Week #101: Return Values, References, and Lifetimes](101.md)
