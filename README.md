@@ -16,9 +16,9 @@
 - [Tip of the Week #64: Raw String Literals](64.md)
 - [Tip of the Week #77: Temporaries, Moves, and Copies](77.md)
 - [Tip of the Week #86: Enumerating with Class](86.md)
-
-待完成
 - [Tip of the Week #94: Callsite Readability and bool Parameters](94.md)
 - [Tip of the Week #101: Return Values, References, and Lifetimes](101.md)
+
+待完成
 - [Tip of the Week #107: Reference Lifetime Extension](107.md)
 - [Tip of the Week #122: Test Fixtures, Clarity, and Dataflow ](122.md)
